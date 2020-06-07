@@ -17,7 +17,7 @@ THere are many types of env I can choose, like json, yaml, ini...etc.
 I took .env to be my choice because its clear and simple feature.  
 
 (2)
-Totally having no idea to use sdk, so I did took some time to see others' code.
+Totally having no idea to use sdk, so I did take some time to see others' code.
 Many thanks especially from the very beginner like me to learn how to use this programming language. 
 ```
 
